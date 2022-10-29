@@ -1,0 +1,5 @@
+.idea/
+venv/
+*.pyc
+.vscode/
+sighn_in.txt
